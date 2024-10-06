@@ -27,7 +27,7 @@ public class Main {public static void main (String [] args) {
     reservationList.add(reservation1);
     reservationList.add(reservation2);
     reservationList.add(reservation3);
-    //cycle:
+    //cycle1:
     for (Booking allReservation : reservationList){System.out.println(allReservation.getStart0fReservation());}
 
 
