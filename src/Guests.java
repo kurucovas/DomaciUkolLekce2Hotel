@@ -13,7 +13,7 @@ public class Guests {
         this.nameAndSurname = nameAndSurname;
         this.birthdate = birthdate;
 
-        //vytvorenie pristupovych metod_:
+        //vytvorenie pristupovych metod__:
 
     }
 

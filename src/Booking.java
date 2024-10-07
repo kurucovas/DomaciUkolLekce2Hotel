@@ -42,7 +42,7 @@ public class Booking {
 
     }
 
-    //vytvorenie konstruktoru_:
+    //vytvorenie konstruktoru__:
     public Booking (String nameAndSurname, int roomNumber, LocalDate start0fReservation, LocalDate endOfReservation
 
     ){

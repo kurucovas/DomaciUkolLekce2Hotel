@@ -1,4 +1,4 @@
-//vytvorenie triedy a jej atributov_:
+//vytvorenie triedy a jej atributov__:
 public class Rooms {
     private int roomNumber;
     private int numberOfBeds;
